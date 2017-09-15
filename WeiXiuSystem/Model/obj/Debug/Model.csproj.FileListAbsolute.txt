@@ -1,0 +1,5 @@
+C:\Users\fj-l\Desktop\WeiXiuSystem\Model\bin\Debug\WXXT.Model.dll
+C:\Users\fj-l\Desktop\WeiXiuSystem\Model\bin\Debug\WXXT.Model.pdb
+C:\Users\fj-l\Desktop\WeiXiuSystem\Model\obj\Debug\WXXT.Model.dll
+C:\Users\fj-l\Desktop\WeiXiuSystem\Model\obj\Debug\WXXT.Model.pdb
+C:\Users\fj-l\Desktop\WeiXiuSystem\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache

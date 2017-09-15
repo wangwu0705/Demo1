@@ -1,0 +1,14 @@
+C:\Users\fj-l\Desktop\WeiXiuSystem\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\fj-l\Desktop\WeiXiuSystem\BLL\bin\Debug\WXXT.BLL.dll
+C:\Users\fj-l\Desktop\WeiXiuSystem\BLL\bin\Debug\WXXT.BLL.pdb
+C:\Users\fj-l\Desktop\WeiXiuSystem\BLL\bin\Debug\Maticsoft.Common.dll
+C:\Users\fj-l\Desktop\WeiXiuSystem\BLL\bin\Debug\WXXT.DAL.dll
+C:\Users\fj-l\Desktop\WeiXiuSystem\BLL\bin\Debug\WXXT.DBUtility.dll
+C:\Users\fj-l\Desktop\WeiXiuSystem\BLL\bin\Debug\WXXT.Model.dll
+C:\Users\fj-l\Desktop\WeiXiuSystem\BLL\bin\Debug\System.Data.SQLite.dll
+C:\Users\fj-l\Desktop\WeiXiuSystem\BLL\bin\Debug\MySql.Data.dll
+C:\Users\fj-l\Desktop\WeiXiuSystem\BLL\bin\Debug\WXXT.DAL.pdb
+C:\Users\fj-l\Desktop\WeiXiuSystem\BLL\bin\Debug\WXXT.DBUtility.pdb
+C:\Users\fj-l\Desktop\WeiXiuSystem\BLL\bin\Debug\WXXT.Model.pdb
+C:\Users\fj-l\Desktop\WeiXiuSystem\BLL\obj\Debug\WXXT.BLL.dll
+C:\Users\fj-l\Desktop\WeiXiuSystem\BLL\obj\Debug\WXXT.BLL.pdb

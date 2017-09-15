@@ -1,0 +1,7 @@
+C:\Users\fj-l\Desktop\WeiXiuSystem\DBUtility\bin\Debug\WXXT.DBUtility.dll
+C:\Users\fj-l\Desktop\WeiXiuSystem\DBUtility\bin\Debug\WXXT.DBUtility.pdb
+C:\Users\fj-l\Desktop\WeiXiuSystem\DBUtility\bin\Debug\MySql.Data.dll
+C:\Users\fj-l\Desktop\WeiXiuSystem\DBUtility\bin\Debug\System.Data.SQLite.DLL
+C:\Users\fj-l\Desktop\WeiXiuSystem\DBUtility\obj\Debug\WXXT.DBUtility.dll
+C:\Users\fj-l\Desktop\WeiXiuSystem\DBUtility\obj\Debug\WXXT.DBUtility.pdb
+C:\Users\fj-l\Desktop\WeiXiuSystem\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache

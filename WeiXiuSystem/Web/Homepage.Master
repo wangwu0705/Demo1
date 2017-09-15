@@ -1,0 +1,71 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Homepage.master.cs" Inherits="WXXT.Web.Homepage" %>
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title>沈阳建筑大学基础建筑维修系统</title>
+    <meta content="沈阳建筑大学基础建筑维修系统,致力学校基础设施的日常维护和维修,保障学校建设的有序与安全.沈阳建筑大学电话：024-24690114" name="description" />
+    <meta content="沈阳建筑大学 基础建筑维修系统" name="keywords">
+    <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+    <link rel="Shortcut Icon" href="/favicon.ico" />
+    <link href="content/Css/index.css" rel="stylesheet" />
+    <script src="javascript/jquery-1.7.1.min.js"></script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+
+<body>
+    <form id="form1" runat="server">
+        <center>
+            <div class="top">
+                <div class="m_c" style="width: 736px; height: 27px">
+                    <span class="l">
+                        <a href="http://www.sjzu.edu.cn" target="_blank"><font color="#00A0E9">沈阳建筑大学网站</font></a> |&nbsp;
+      <a href="http://grs.sjzu.edu.cn" target="_blank">沈阳建筑大学研究生学院</a>&nbsp; |
+      <a href="http://tsg.sjzu.edu.cn" target="_blank">沈阳建筑大学图书馆</a>&nbsp;|
+                </div>
+            </div>
+            <div style="width: 100%;">
+                <img src="/content/images/集团网站1.gif" width="100%" height="100" />
+            </div>
+            <div id="tabsI" style="width: 100%; height: 32px; background-color: blue; margin-left: 0px">
+                <ul>
+                    <!-- CSS Tabs -->
+                    <li><a href="Index.aspx"><span>首页</span></a></li>
+                    <li><a href="ProjectList.aspx"><span>维修工程列表</span></a></li>
+                    <li><a href="Remind.aspx"><span>维修提醒</span></a></li>
+                    <li><a href="Photo1.aspx"><span>维修前照片</span></a></li>
+                    <li><a href="Photo2.aspx"><span>维修后照片</span></a></li>
+
+                    <li><a href="PlantprojectList.aspx"><span>计划工程列表</span></a></li>
+                    <li><a href="Admin/AdminLogin.aspx"><span>管理员登录</span></a></li>
+                    <li></li>
+                </ul>
+            </div>
+
+
+            <div id="main_box" style="width: 100%; position: relative; margin-left: 0; margin-right: 0; top: 0px; left: 0px;">
+                <asp:ContentPlaceHolder ID="cphContent" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+
+            <div id="footer" style="clear: both; position: relative; bottom: 0px">
+                <table border="0" width="100%" class="categories1">
+                    <tr>
+                        <td align="center">
+                            <ul>
+                                <li><a href='#'>关于基础建筑维修系统</li>
+                                <li>电话：18602487720</li>
+                                <li>&nbsp;<span lang="zh-cn">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a title="地址：沈阳市东陵区浑南东路9号" href="http://www.sjzu.edu.cn/">&nbsp;</a><a href="#">系统运行区间：建筑大学 </a></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </li>
+                            </ul>
+                        </td>
+
+                    </tr>
+                </table>
+            </div>
+            <!--end foot div -->
+        </center>
+    </form>
+</body>
+</html>
